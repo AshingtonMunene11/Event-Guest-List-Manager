@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Guest List Manager</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="frame-container">
+        <header class="intro">
+            <h1 class="h1">Welcome to Our Wedding Guest List!</h1>
+        </header>
+        <main>
+            <section class="hero">
+                <div class="container">
+                    <div class="event-title">EVENT GUEST LIST MANAGER</div>
+                    <div class="form-container">
+                        <input type="text" id="guestName" class="input-field" placeholder="Enter guest name">
+                        <select id="guestCategory" class="input-field">
+                            <option value="Friend">Friend</option>
+                            <option value="Family">Family</option>
+                            <option value="Colleague">Colleague</option>
+                        </select>
+                        <button class="button">+ Add Guest</button>
+                    </div>
+                </div>
+            </section>
+            <section class="guest-list">
+                <h2 class="h2">Guest List</h2>
+                <ul id="guestList" class="guest-list-items"></ul>
+            </section>
+            <section class="content">
+                <div class="text">
+                    <h2>You are cordially invited as a special Guest.</h2>
+                    <p>Our wedding venue will be at Nairobi on the <strong>11th of November</strong>, surrounded by family and friends.</p>
+                </div>
+            </section>
+            <section class="schedule">
+                <h2>Event Schedule</h2>
+                <ul class="schedule-list">
+                    <li>08:00 AM - Arrival at Venue</li>
+                    <li>12:00 PM - Reception</li>
+                    <li>06:00 PM - End</li>
+                </ul>
+            </section>
+        </main>
+        <footer class="footer">
+            <p class="footer">&copy; 2025 Ashington Munene</p>
+        </footer>
+    </div>
+   <script src="src/index.js" defer></script> 
+</body>
+</html>
