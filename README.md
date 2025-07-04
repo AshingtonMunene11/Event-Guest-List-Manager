@@ -38,6 +38,9 @@ WK2-CODE-CHALLENGE/
 2. Open `index.html` in your browser
 3. Add guests(names).
 
+## 📜 License
+
+&copy; 2025 Ashington Munene — Moringa School.
 
 ---
 
