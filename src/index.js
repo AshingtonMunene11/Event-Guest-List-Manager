@@ -3,6 +3,8 @@ document.addEventListener("DOMContentLoaded", () => {
     const guestList = document.getElementById("guestList");
     const addGuestButton = document.querySelector(".button");
     let guests = [];
+
+    //the toggle to add a guest name to the page
     function addGuest() {
         const guestNameInput = document.getElementById("guestName");
         const guestCategoryInput = document.getElementById("guestCategory");
