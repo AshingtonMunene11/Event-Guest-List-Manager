@@ -25,7 +25,7 @@ Elegant UI with a warm wedding theme and intuitive layout.
 ## 📂 File Structure
 
 WK2-CODE-CHALLENGE/
-├── images/               # Folder for backgrond image 
+├── images/               # Folder for background image 
 ├── src/                
 │   └── index.js          # Main JavaScript logic for the web app
 ├── index.html            # HTML structure of the web page
@@ -38,7 +38,7 @@ WK2-CODE-CHALLENGE/
 2. Open `index.html` in your browser
 3. Add guests(names).
 
-## 📜 License
+## 📜 License & Use
 
 &copy; 2025 Ashington Munene — Moringa School.
 
