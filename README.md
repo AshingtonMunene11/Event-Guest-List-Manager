@@ -36,7 +36,7 @@ WK2-CODE-CHALLENGE/
 
 1. Clone or download the repo
 2. Open `index.html` in your browser
-3. Add guests(names).
+3. Add guests(names)
 
 ## 📜 License & Use
 
