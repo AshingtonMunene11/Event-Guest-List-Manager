@@ -1,4 +1,4 @@
-# 🎉 Code Challenge week 2: Event Guest List Manager
+# 🎉Event Guest List Manager
 
 This is a responsive, browser-based guest list manager designed for events such as weddings or receptions.
 It allows users to add guests and categorize them (e.g., Friend, Family, Colleague) while showcasing event information and a detailed schedule.
